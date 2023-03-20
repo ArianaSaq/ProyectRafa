@@ -12,7 +12,7 @@ public class Autor extends Libro{
 		this.edad = edad;	
 		super
 		}
-sgsd
+sg
 	public String getNombre() {
 		return nombre;	}
 
