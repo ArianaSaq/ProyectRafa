@@ -2,6 +2,7 @@ package Practica2;
 
 public class Autor extends Libro{
 	String nombre;
+	String libro;
 	int edad;
 	 Libro  a = new Libro(libro, libro);
 
