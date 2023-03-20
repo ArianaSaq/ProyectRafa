@@ -6,7 +6,7 @@ public class Libro {
 	boolean prestado;
 
 	public Libro(){}
-sf
+
 	public Libro(String titulo, Autor autor ) {		
 		this.titulo = titulo;
 		this.autor = autor;
