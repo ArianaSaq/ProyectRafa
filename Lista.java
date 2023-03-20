@@ -12,7 +12,7 @@ public class Lista {
 		String numero;
 		System.out.println("Introduce los valores numericos de la lista: ");
 		numero = teclado.next();
-sdf
+
 		
 		//llamada a metodo de leer numero por teclado
 		listaDeEnteros = listaDesdeTeclado(numero);
