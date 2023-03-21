@@ -33,7 +33,7 @@ public class Autor extends Libro{
 		this.libro = libro;	}
 
 	public String toString() {
-		return "Autor [nombre=" + nombre + ", edad=" + edad + "]";	}
+		return "Autor [nombre=" + nombre + ", edad=" + edad + ", libro=" + libro + "]";	}
 	
 	
 }
