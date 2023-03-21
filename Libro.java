@@ -49,6 +49,7 @@ public class Libro {
 		return "Libro [titulo=" + titulo + ", autor=" + autor.toString() + ", prestado="
 		+ prestado + "]";
 	
-	system.out.printin("Primera version")
+	system.out.printin("Primera version");
+	system.out.printin("Segunda version");
 	}
 }
