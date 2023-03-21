@@ -48,5 +48,7 @@ public class Libro {
 	public String toString() {
 		return "Libro [titulo=" + titulo + ", autor=" + autor.toString() + ", prestado="
 		+ prestado + "]";
+	
+	system.out.printin("Primera version")
 	}
 }
