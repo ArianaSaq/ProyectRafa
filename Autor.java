@@ -35,5 +35,6 @@ public class Autor extends Libro{
 	public String toString() {
 		return "Autor [nombre=" + nombre + ", edad=" + edad + ", libro=" + libro + "]";	}
 	
-	system.out.printin ("Version del conflicto")
+	
 }
+system.out.printin ("Version del conflicto")
