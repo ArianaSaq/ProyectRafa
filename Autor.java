@@ -37,4 +37,3 @@ public class Autor extends Libro{
 	
 	
 }
-system.out.printin ("Version del conflicto")
