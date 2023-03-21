@@ -3,6 +3,7 @@ package Practica2;
 public class Autor extends Libro{
 	String nombre;
 	String libro;
+	String localidad;
 	int edad;
 	 Libro  a = new Libro(libro, libro);
 
@@ -32,8 +33,14 @@ public class Autor extends Libro{
 	public void setLibro()	{
 		this.libro = libro;	}
 
+	public String getLocalidad() {
+	return localidad;	}
+	
+	public void setLocalidad()	{
+		this.localidad = localidad;	}
+	
 	public String toString() {
-		return "Autor [nombre=" + nombre + ", edad=" + edad + ", libro=" + libro + "]";	}
+		return "Autor [nombre=" + nombre + ", edad=" + edad + ", libro=" + libro + ", localidad=" + localidad + "]";	}
 	
 	
 }
