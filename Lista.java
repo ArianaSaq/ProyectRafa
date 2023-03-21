@@ -33,5 +33,6 @@ public class Lista {
 			valor = teclado.next();
 		}
 		return resultado;
+		System.out.println("Primera versión");
 	}
 }
