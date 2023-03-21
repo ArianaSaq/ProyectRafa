@@ -34,5 +34,6 @@ public class Lista {
 		}
 		return resultado;
 		System.out.println("Primera versión");
+		System.out.println("segunda versión");
 	}
 }
