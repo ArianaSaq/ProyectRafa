@@ -25,6 +25,12 @@ public class Autor extends Libro{
 
 	public void setEdad(int edad) {
 		this.edad = edad;	}
+	
+	public String getLibro() {
+		return libro;	}
+	
+	public void setLibro()	{
+		this.libro = libro;	}
 
 	public String toString() {
 		return "Autor [nombre=" + nombre + ", edad=" + edad + "]";	}
